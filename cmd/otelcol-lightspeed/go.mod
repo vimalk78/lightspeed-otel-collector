@@ -12,7 +12,7 @@ require (
 	github.com/openshift/lightspeed-otel-collector/extension/postgresadmin v0.0.0
 	github.com/openshift/lightspeed-otel-collector/postgresexporter v0.0.0
 	go.opentelemetry.io/collector/component v1.63.0
-	go.opentelemetry.io/collector/confmap v1.63.0
+	go.opentelemetry.io/collector/confmap v1.65.0
 	go.opentelemetry.io/collector/confmap/provider/envprovider v1.61.0
 	go.opentelemetry.io/collector/confmap/provider/fileprovider v1.61.0
 	go.opentelemetry.io/collector/confmap/provider/httpprovider v1.61.0
@@ -49,7 +49,6 @@ require (
 	github.com/elastic/lunes v0.2.2 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/foxboron/go-tpm-keyfiles v0.0.0-20251226215517-609e4778396f // indirect
-	github.com/fsnotify/fsnotify v1.10.1 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
@@ -73,9 +72,9 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.18.6 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
-	github.com/knadh/koanf/maps v0.1.2 // indirect
-	github.com/knadh/koanf/providers/confmap v1.0.0 // indirect
-	github.com/knadh/koanf/v2 v2.3.5 // indirect
+	github.com/knadh/koanf/maps v0.1.3 // indirect
+	github.com/knadh/koanf/providers/confmap v1.0.1 // indirect
+	github.com/knadh/koanf/v2 v2.3.6 // indirect
 	github.com/lufia/plan9stats v0.0.0-20251013123823-9fd1530e3ec3 // indirect
 	github.com/magefile/mage v1.15.0 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
@@ -119,11 +118,11 @@ require (
 	go.opentelemetry.io/collector/config/confighttp v0.155.0 // indirect
 	go.opentelemetry.io/collector/config/configmiddleware v1.61.0 // indirect
 	go.opentelemetry.io/collector/config/confignet v1.61.0 // indirect
-	go.opentelemetry.io/collector/config/configopaque v1.61.0 // indirect
+	go.opentelemetry.io/collector/config/configopaque v1.65.0 // indirect
 	go.opentelemetry.io/collector/config/configoptional v1.63.0 // indirect
 	go.opentelemetry.io/collector/config/configretry v1.63.0 // indirect
 	go.opentelemetry.io/collector/config/configtelemetry v0.155.0 // indirect
-	go.opentelemetry.io/collector/config/configtls v1.61.0 // indirect
+	go.opentelemetry.io/collector/config/configtls v1.65.0 // indirect
 	go.opentelemetry.io/collector/confmap/xconfmap v0.155.0 // indirect
 	go.opentelemetry.io/collector/connector/connectortest v0.155.0 // indirect
 	go.opentelemetry.io/collector/connector/xconnector v0.155.0 // indirect
@@ -141,7 +140,7 @@ require (
 	go.opentelemetry.io/collector/extension/extensionmiddleware v0.155.0 // indirect
 	go.opentelemetry.io/collector/extension/extensiontest v0.157.0 // indirect
 	go.opentelemetry.io/collector/extension/xextension v0.157.0 // indirect
-	go.opentelemetry.io/collector/featuregate v1.63.0 // indirect
+	go.opentelemetry.io/collector/featuregate v1.65.0 // indirect
 	go.opentelemetry.io/collector/internal/componentalias v0.157.0 // indirect
 	go.opentelemetry.io/collector/internal/fanoutconsumer v0.155.0 // indirect
 	go.opentelemetry.io/collector/internal/sharedcomponent v0.155.0 // indirect
